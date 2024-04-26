@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushil Kumawat</h1>
 <h3 align="center">A passionate Full-Stack developer, I need a cup of TEA</h3>
 
-- 🌱 I’m currently learning **React-JS, NodeJS, ExpressJS, MongoDB, Javascript**
+- 🌱 I’m currently learning **DSA(CPP),Javascript,React-JS, NodeJS, ExpressJS, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sushil2817](https://github.com/sushil2817)
 
