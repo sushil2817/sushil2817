@@ -9,9 +9,7 @@
 
 - 📫 How to reach me **tony281723@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15diNWmUfEZRUpjeqFMgbWM497DiIMQtF/view?usp=drive_link](https://drive.google.com/file/d/15diNWmUfEZRUpjeqFMgbWM497DiIMQtF/view?usp=drive_link)
-
-- ⚡ Fun fact **I can do it **
+- ⚡ Fun fact "I can do it"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
