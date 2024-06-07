@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tony281723@gmail.com**
 
-- ⚡ Fun fact "I can do it"
+- ⚡ Fun fact "I can crack MICROSOFT"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
