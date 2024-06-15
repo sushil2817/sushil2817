@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sushil2817](https://github.com/sushil2817)
 
-- 💬 Ask me about **Javascript, React,NextJs, NodeJS, ExpressJS, MongoDB**
+- 💬 Ask me about **Javascript, React,NextJs, NodeJS, ExpressJS, MongoDB,DSA,C++**
 
 - 📫 How to reach me **tony281723@gmail.com**
 
