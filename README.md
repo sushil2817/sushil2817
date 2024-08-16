@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DSA(CPP),Javascript, React-JS, NodeJS, ExpressJS, MongoDB,NextJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sushil2817](https://github.com/sushil2817)
+- 👨‍💻 All of my projects are available at [https://github.com/sushil2817] (https://github.com/sushil2817)
 
 - 💬 Ask me about **Javascript, React,NextJs, NodeJS, ExpressJS, MongoDB,DSA,C++**
 
