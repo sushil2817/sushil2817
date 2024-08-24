@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sushil Kumawat</h1>
+<h1 align="center">Hi👋, I'm Sushil Kumawat</h1>
 <h3 align="center">A passionate MERN developer,and A pretty good Developer, Buy me a cup of TEA</h3>
 
 - 🌱 I’m currently learning **DSA(CPP),Javascript, React-JS, NodeJS, ExpressJS, MongoDB,NextJS**
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Javascript, React,NextJs, NodeJS, ExpressJS, MongoDB,DSA,C++**
 
-- 📫 How to reach me **tony281723@gmail.com**
+- 📫 How to reach me **---**
 
 - ⚡ Fun fact "I can crack MICROSOFT and then I will start my own StartUp."
 
