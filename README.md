@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Sushil Kumawat</h1>
-<h3 align="center">A passionate MERN developer,and A pretty good Developer, Buy me a cup of TEA</h3>
+<h3 align="center">A passionate MERN Developer, and A pretty good Developer, Buy me a cup of TEA</h3>
 
 - 🌱 I’m currently learning **DSA(CPP),Javascript, React-JS, NodeJS, ExpressJS, MongoDB,NextJS**
 
