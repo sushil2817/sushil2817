@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Javascript, React,NextJs, NodeJS, ExpressJS, MongoDB,DSA,C++**
 
-- 📫 How to connect with me **---**
+- 📫 How to connect with me **--**
 
 - ⚡ Fun fact "I can crack MICROSOFT and then I will start my own StartUp."
 
