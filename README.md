@@ -2,8 +2,11 @@
 
 <br>
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=32&lines=I'm+a+MERN+stack+developer...;Self+taught+Full-Stack+Developer;Computer+Science+Student;Love+to+learn+new+stuff)](https://git.io/typing-svg)
 
+</div>
 
 
 ## <p align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px ></picture> About me</p>
@@ -39,10 +42,13 @@
 
 <br>
 
-## My Journey
+## <p align="center"> My Journey </p>
 
-<div>
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=sushil2817&theme=onedark"/>
+<div align="center">
+  <img width="385px"  src="https://github-readme-streak-stats.herokuapp.com/?user=sushil2817&theme=onedark"/>
 </div>
+
+<br>
+<br>
 
 <p align="center" border-radious="20px"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" style="border-radius: 20px;"></p>
