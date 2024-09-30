@@ -51,4 +51,4 @@
 <br>
 <br>
 
-<p align="center" border-radious="20px"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" style="border-radius: 20px;"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" style="border-radius: 20px;"></p>
