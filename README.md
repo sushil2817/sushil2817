@@ -31,7 +31,7 @@
 </a>
  </p>
 
-## <p align="center">Let's Connect..!</p>
+## <p align="center">Let's Connect...!</p>
 
 <br>
 
