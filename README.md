@@ -18,7 +18,7 @@
 - 👨‍💻 All of my projects are available at [github](https://github.com/sushil2817)
 - 💬 Ask me about Javascript, React,NextJs, NodeJS, <br> ExpressJS,  MongoDB,DSA,C++, DBMS, system architecture
 - 🤔 Also working as a Freelancer.
-- ⚡ Fun fact "I can crack MICROSOFT and then I will start my own StartUp."
+- ⚡ I can crack MICROSOFT and then I will start my own StartUp.
 
 <br>
 <br>
