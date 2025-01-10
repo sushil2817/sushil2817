@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning
 - 👨‍💻 All of my projects are available at [github](https://github.com/sushil2817)
-- 💬 Ask me about Javascript, React,NextJs, NodeJS, <br> ExpressJS,  MongoDB,DSA,C++, DBMS, system architecture
+- 💬 Ask me about Javascript, React,NextJs, NodeJS, <br> ExpressJS,ZOD, MongoDB,DSA,C++, DBMS, system architecture
 - 🤔 Also working as a Freelancer.
 - ⚡ I can crack MICROSOFT and then I will start my own StartUp.
 
