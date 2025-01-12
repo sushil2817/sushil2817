@@ -45,7 +45,7 @@
 ## <p align="center"> My Journey </p>
 
 <div align="center">
-  <img width="385px"  src="https://github-readme-streak-stats.herokuapp.com/?user=sushil2817&theme=onedark"/>
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=sushil2817&theme=onedark"/>
 </div>
 
 <br>
