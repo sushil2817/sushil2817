@@ -36,7 +36,6 @@
 <a href="https://www.leetcode.com/_sushil28_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_sushil28_" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/_sushil23_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="_sushil23_" height="30" width="40" /></a>
 </p>
-
 <br>
 
 ## <p align="center"> My Journey </p>
