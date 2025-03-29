@@ -7,7 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=32&lines=I'm+a+MERN+stack+developer...;Self+taught+Full-Stack+Developer;Computer+Science+Student;Love+to+learn+new+stuff)](https://git.io/typing-svg)
 
 </div
- 
 ## <p align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px ></picture> About me</p>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 230px height= 200px></picture>
 
