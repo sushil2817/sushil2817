@@ -20,7 +20,6 @@
  </p>
 ## <p align="center">Let's Connect...!</p>
 <br>
-
 <p align="center">
 <a href="https://twitter.com/sushil2817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sushil2817" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sushilkumawat28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushilkumawat28" height="30" width="40" /></a>
