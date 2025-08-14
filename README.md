@@ -38,7 +38,7 @@
 
 
 <div align="center">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=sushil2817&theme=onedark"/>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sushil2817&theme=darcula&short_numbers=true&card_width=505&card_height=206" alt="GitHub Streak" /></a>
 </div>
 <br>
 <br>
