@@ -8,7 +8,7 @@
 ## <p align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px ></picture> About me</p>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 230px height= 200px></picture>
 
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning AI/ML
 - 👨‍💻 All of my projects are available at [github](https://github.com/sushil2817)
 - 💬 Ask me about Javascript, React,NextJs, NodeJS, <br> ExpressJS,ZOD, MongoDB,DSA,C++, DBMS, system architecture
 - 🤔 Also working as a Freelancer.
