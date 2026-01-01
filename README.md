@@ -8,13 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=650&lines=Self-taught+Full-Stack+Developer;MERN+Stack+Engineer;Currently+Learning+AI+%26+ML;Building+Scalable+Web+Apps;Dream:+Microsoft+%26+My+Own+Startup" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sushil2817&theme=dracula&row=1&column=6" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=650&lines=Self-taught+Full-Stack+Developer;MERN+Stack+Engineer;Learning+AI+%26+ML;Building+Scalable+Web+Apps;Dream:+Microsoft+%26+Startup" />
 </p>
 
 ---
@@ -24,15 +18,15 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230" />
 
 - 🌱 Currently learning **AI / ML & System Design**
-- 👨‍💻 All projects available on **[GitHub](https://github.com/sushil2817)**
+- 👨‍💻 All projects on **[GitHub](https://github.com/sushil2817)**
 - 💬 Ask me about  
-  **JavaScript, React, Next.js, Node.js, Express, Zod, MongoDB, PostgreSQL, DSA, C++, DBMS, System Architecture**
+  **JavaScript, React, Next.js, Node.js, Express, Zod, MongoDB, PostgreSQL, DSA, C++**
 - 🤝 Working as a **Freelancer**
 - 🎯 Goal: **Crack Microsoft** & build my own **Startup**
 
 ---
 
-## 🛠️ Tech Stack & Tools ⚙️
+## 🛠️ Tech Stack ⚙️
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,postgres,docker,aws,git,linux,tailwind,bootstrap,cpp,cs,python,dotnet&perline=9" />
@@ -46,26 +40,28 @@
 
 ---
 
-## 🚀 What I’m Building Now
+## 🏆 GitHub Achievements
 
-- 🔹 **MERN SaaS Applications**
-- 🔹 **AI-powered Web Apps**
-- 🔹 **Scalable Backend Architectures**
-- 🔹 **Production-grade APIs**
-
-> 💡 *Tip:* Pin your **top 3 projects** on GitHub for maximum impact.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sushil2817&theme=dracula&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-## 📊 GitHub Journey 📈
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sushil2817&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sushil2817&theme=darcula" height="165"/>
 </p>
 
+---
+
+
+## 💡 Dev Quote of the Day
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sushil2817&theme=dracula" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </p>
 
 ---
@@ -94,6 +90,12 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" />
+</p>
+
+## 🐍 Contribution Snake (Animation)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <p align="center">
