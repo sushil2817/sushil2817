@@ -54,16 +54,6 @@
 </p>
 
 ---
-
-
-## 💡 Dev Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
-</p>
-
----
-
 ## 🌐 Let's Connect 🤝
 
 <p align="center">
