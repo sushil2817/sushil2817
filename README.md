@@ -10,8 +10,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=650&lines=Self-taught+Full-Stack+Developer;MERN+Stack+Engineer;Learning+AI+%26+ML;Building+Scalable+Web+Apps;Dream:+Microsoft+%26+Startup" />
 </p>
----
-## 👨‍💻 About Me <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40">
+
+👨‍💻 About Me <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40">
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230" />
 
