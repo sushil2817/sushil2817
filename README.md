@@ -15,7 +15,7 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230" />
 
-- 🌱 Currently learning **AI / ML & System Design**
+- 🌱 Currently learning **AI / ML & HLD, LLD (System Design)**
 - 👨‍💻 All projects on **[GitHub](https://github.com/sushil2817)**
 - 💬 Ask me about  
   **JavaScript, React, Next.js, Node.js, Express, Zod, MongoDB, PostgreSQL, DSA, C++**
